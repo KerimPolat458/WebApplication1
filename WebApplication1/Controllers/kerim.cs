@@ -11,4 +11,11 @@ namespace WebApplication1.Controllers
             return View();
         }
     }
-}
+    public class kerim2 : Controller
+    {
+        [HttpGet]
+        public IActionResult Index()
+        {
+            return View();
+        }
+    }
