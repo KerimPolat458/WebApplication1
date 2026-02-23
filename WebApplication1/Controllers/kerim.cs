@@ -2,6 +2,7 @@
 
 namespace WebApplication1.Controllers
 {
+    sdfghjklşlkjfdfghj
     public class kerim : Controller
     {
         public IActionResult Index()
