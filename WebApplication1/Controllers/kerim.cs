@@ -2,6 +2,7 @@
 
 namespace WebApplication1.Controllers
 {
+    sükür 
     
     public class kerim : Controller
     {
